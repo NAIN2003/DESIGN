@@ -1,0 +1,344 @@
+.aurora{
+
+    display: flex;
+}
+
+.ma{
+    margin-top:30px;
+    border-radius:100px;
+}
+
+.o{
+    padding:3px;
+    margin-right:5px;
+    border-radius:100px;
+    background-color: rgb(158, 243, 215);
+}
+.o1{
+    margin-right:87px;
+ 
+    background-color: rgb(158, 243, 215);
+     padding:3px;
+    border-radius:100px;
+}
+.c{
+    display: flex;
+}
+.circle{
+    background-color:orange;
+    padding:2px 8px;
+    border-radius:100px;
+    color:white;
+}
+.fan{
+    display: flex;
+    border:1px solid black;
+    
+}
+.ch{
+    margin-right:82px;
+}
+.fan .b {
+     border:1px solid black;
+     border-top:transparent;
+   
+     border-bottom:transparent;
+     border-left:transparent;
+    /* margin-left:50px; */
+    align-self: center;
+    padding-right:10px;
+
+}
+.bc{
+    margin-top:8px;
+}
+.se{
+    margin-top:12px;
+  
+}
+.se img{
+    border-radius:0px 10px 10px 0px;
+}
+.in{
+  
+    display: flex;
+   
+}
+.one{
+    background-color:orange;
+    color:white;
+    padding:2px 8px;
+    border-radius:100px;
+}
+
+.l{
+    margin-top:-12px;
+}
+.vis1{
+    margin-right:100px;
+}
+.vis2{
+    margin-right:40px;
+}
+.ul{
+    margin: auto;
+    list-style-type: none;
+    width:330px;
+    margin-bottom:0%;
+    display:flex;
+    justify-content: space-between;
+}
+.we{
+    font-weight: bold;
+}
+.ta div{
+    display: flex;
+    justify-content:space-between;
+    
+}
+ul{
+    display: flex;
+    justify-content:space-evenly;
+    list-style-type:none;
+    margin-left:-40px;
+}
+.orange{
+    color:orange;
+    border-bottom:2px solid orange;
+}
+.e{
+    margin-left:20px;
+}
+.gray{
+    /* background-color:gray; */
+    background-color:rgba(209, 209, 247, 0.301);
+    width: 385px;
+   line-height:15px;
+     display: flex;
+    
+}
+.container{
+    margin:200px 0;
+    display: flex;
+    justify-content: center;
+}
+.sa{
+    width:450px;
+    /* border:1px solid black; */
+    margin-left:1px;
+}
+.email{
+
+    border-radius:100px;
+}
+.app .di{
+    display:flex;
+    justify-content: space-between;
+}
+.di span{
+    align-self: center;
+    
+}
+
+.d1,.d2{
+    margin-top:5px;
+}
+
+.last span{
+    align-self:center;
+}
+.cvis{
+    margin:4px 0;
+}
+.nvisit{
+    background-color:rgb(203, 203, 203);
+    padding:4px;
+    border-radius:100px; 
+}
+ .im1{
+    background-color:rgb(203, 203, 203);
+    padding:4px;
+    border-radius:100px;
+}
+.app .di img{
+    margin-right:8px;
+}
+.lee{
+    border:1px solid black;
+    border-top:transparent;
+    width:468px;
+}
+.sa .g{
+    background-color:rgba(236, 236, 249, 0.301);
+    width:100%;
+    height:86%;
+    padding:10px;
+}
+.or{
+    display: flex;
+    border:1px solid rgb(248, 167, 15);
+    justify-content: center;
+    background-color:rgb(255, 219, 192);
+    border-radius:10px;
+    
+}
+.visit{
+    margin-top:4px;
+    padding:1px;
+    background-color:rgb(189, 186, 186);
+    border-radius:100px;
+}
+.fa-envelope{
+   background-color:rgb(189, 186, 186);
+   padding:4px;
+   border-radius:100px;
+}
+.fa-whatsapp{
+    background-color:rgb(189, 186, 186);
+    padding:4px;
+    border-radius:100px; 
+}
+.fa-star{
+    background-color:rgb(189, 186, 186);
+    padding:2px;
+    border-radius:100px; 
+   
+}
+.lee img{
+    border-radius:100px;
+}
+.l{
+    margin-bottom:-10px;
+}
+.t{
+    background-color:orange;
+    padding:3px 7px;
+    height:15px;
+    color:white;
+    border-radius:100px;
+    margin-top:4px;
+}
+.ti{
+   margin-bottom:-10px;
+}
+.lee{
+    display: flex;
+}
+.app{
+    border-right:3px solid black;
+    padding:5px;
+    width:250px;
+    margin-top:12px;
+    margin-left:23px;
+}
+.ta{
+    padding:2px;
+    box-shadow:1px 1px 4px rgb(230, 225, 225);
+    line-height:40px;
+}
+.div h3{
+    display: inline-block;
+}
+
+.imn img{
+     margin-top:25px;
+     margin-right:18px;
+     margin-left:10px;
+     border-radius:80px;
+}
+.div{
+    display: flex;
+    width: 385px;
+}
+.div p{
+    margin-top:-5px;
+}
+.l h3{
+    display: inline-block;
+}
+.l .off{
+    background-color:rgba(187, 187, 237, 0.301);
+    margin-left:8px;
+    margin-right:18px;
+    padding:3px;
+    border-radius:100px;
+}
+.div span{
+    display: inline-block;
+}
+.gray img{
+    margin-top:22px;
+    margin-left:10px;
+    border-radius:90px;
+    
+}
+
+.p{
+    margin-top:-10px;
+}
+.div h3{
+    display: inline-block;
+}
+.gray h3{
+    display: inline-block;
+}
+
+.w{
+    width:99.5%;
+    text-align: right;
+}
+.last div {
+    display: flex;
+    
+}
+.lv,.cv,.nv{
+    margin-right:52px;
+}
+.last div img{
+    margin-right:7px;
+}
+.wh{
+    background-color:rgb(205, 205, 205);
+
+}
+input{
+    margin-top:12px;
+    height:40px;
+    width:315px;
+    
+}
+.sa{
+    margin-top:12px;
+}
+
+.fan div img{
+     
+     margin-left:14px;
+     display: block;
+}
+
+.fan div{
+    padding-left:15px;
+}
+
+.para{
+    background-color:white;
+    padding:5px;
+    border-radius:0px 10px 10px 10px;
+}
+
+.btns{
+    display: flex;
+    justify-content: center;
+}
+.btns button{
+    margin-right:10px;
+    
+    border-radius:100px;
+    padding:5px 20px;
+}
+
+.btn{
+    background-color: rgb(7, 72, 7);
+    color:white;
+}
